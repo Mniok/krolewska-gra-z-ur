@@ -1,0 +1,20 @@
+﻿  Board.cpp
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Board.cpp(56,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Board.cpp(268,31): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Board.cpp(332,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Board.cpp(342,27): warning C4018: '<': signed/unsigned mismatch
+  Pawn.cpp
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Pawn.cpp(30,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\Player.cpp(31,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\main.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\main.cpp(50,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\c++ proj gra z Ur\main.cpp(164,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  Finished generating code
+  26 of 206 functions (12.6%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  c++ proj gra z Ur.vcxproj -> C:\Users\MTS\Desktop\!zadada\z prz2 semestr 3\c++ projekt\zz1. c++ proj gra z Ur\Release\[1] c++ proj gra z Ur.exe
